@@ -1,4 +1,4 @@
-
+/* HOSPITAL MANAGEMENT SYSTEM BY USING C++ LANGUAGE*/
 #include<iostream>
 #include<conio.h>
 #include<string.h>
@@ -13,7 +13,7 @@ struct patient
 	int age;
 	char blood[5];
 	char gender;
-    patient*next;
+        patient*next;
 };
 class linkedqueue
 {
