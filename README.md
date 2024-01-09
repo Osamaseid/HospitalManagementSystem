@@ -17,5 +17,5 @@ Installation
 Clone the repository from GitHub:
 
 Copy
-git clone https://github.com/osamaseid/hospital-management-system.git
+git clone https://github.com/osamaseid/HospitalManagementSystem.git
 ```
